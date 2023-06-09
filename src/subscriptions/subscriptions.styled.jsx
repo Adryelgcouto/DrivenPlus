@@ -1,6 +1,12 @@
 import styled from "styled-components";
 
 export const ContentSubscriptions = styled.div`
+header{
+  img{
+    margin-top: 22px;
+    margin-left: 22px;
+  }
+}
   main {
     p{
       color: white;
